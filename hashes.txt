@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - The Long Way to Sorry
+
+This log tracks the cryptographic history and versioning for the song **The Long Way to Sorry** (the-long-way-to-sorry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T00:42:20.049400 | `v1` | `daedd0b7bbc849df38b63e9f14b187f68d993252c22ea72841b5ef0534483d4a` | `630cc8c398fd5e4c9757c97632b399d93e6f19240edea204064d8e5bf3b55190` | `2026-05-25_the-long-way-to-sorry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

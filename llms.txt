@@ -17,9 +17,9 @@
 | **Title** | The Long Way to Sorry |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 24, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/the-long-way-to-sorry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for The Long Way to Sorry](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Request Licensing for The Long Way to Sorry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-long-way-to-sorry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
